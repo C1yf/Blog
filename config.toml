@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/Blog"
 languageCode = "fr-fr"
 title = "Parvis"
 theme = "mainroad"
